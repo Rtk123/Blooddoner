@@ -33,7 +33,7 @@ include('crud_2.php');
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <div class="wap">
-    <a href="https://wa.me/919883243822?text=hello i am dibyendu...."><img src="galary/wap.jpg"  alt=""></a>
+    <a href="https://wa.me/917033428573?text=hello%20I%20am%20Ritik%20Tiwari"><img src="galary/wap.jpg"  alt=""></a>
     </div>
     <title>Hello world!</title>
 <style>
