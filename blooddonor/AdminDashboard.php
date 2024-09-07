@@ -11,11 +11,13 @@
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            background-color: #f4f7fa;
+            background: url('imgs/blood.avif') no-repeat center center fixed;
+            background-size: cover;
             font-family: 'Arial', sans-serif;
+            color: #fff; /* Adjusted text color to ensure readability */
         }
         .dashboard-title {
-            color: #343a40;
+            color: #f8f9fa;
             font-weight: bold;
             text-transform: uppercase;
         }
@@ -23,6 +25,8 @@
             border: none;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            background: rgba(255, 255, 255, 0.8); /* Semi-transparent background for readability */
+            color: #333; /* Adjust text color inside the card */
         }
         .card-title {
             border-bottom: 2px solid #007bff;
@@ -91,7 +95,7 @@
         ?>
 
         <div class="text-center mt-4">
-            <a href="logout.php" class="btn btn-danger">Logout</a>
+            <a href="logout.php" class="btn btn-success">Logout</a>
         </div>
     </div>
 
